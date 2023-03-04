@@ -1,8 +1,10 @@
-## 完善中 2023/01/30 
+## 2023/03/04
 
+更细 节点选择可以更加 准确选择到需要节点
+去除 不常用功能 优化
 ---------------------------
 # 订阅地址
-https://raw.githubusercontent.com/IC58G/QuantumultX/main/quantumult_202301-cn.conf
+https://raw.githubusercontent.com/IC58G/QuantumultX/main/quantumult_202303-cn.conf
 ---------------------------
 常用定时示例：
 
